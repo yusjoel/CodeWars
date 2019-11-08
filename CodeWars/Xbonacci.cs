@@ -2,6 +2,12 @@
 
 namespace CodeWars
 {
+    /// <summary>
+    ///     Tribonacci Sequence
+    /// </summary>
+    /// <remarks>
+    ///     https://www.codewars.com/kata/556deca17c58da83c00002db
+    /// </remarks>
     public class Xbonacci
     {
         public double[] Tribonacci(double[] signature, int n)

@@ -1,10 +1,23 @@
 ﻿using System;
+using System.Globalization;
+using System.Linq;
 using System.Text;
 
 namespace CodeWars
 {
+    /// <summary>
+    ///     Jaden Casing Strings
+    /// </summary>
+    /// <remarks>
+    ///     https://www.codewars.com/kata/5390bac347d09b7da40006f6
+    /// </remarks>
     public static class JadenCase
     {
+        /// <summary>
+        ///     My Solution
+        /// </summary>
+        /// <param name="phrase"></param>
+        /// <returns></returns>
         public static string ToJadenCase(this string phrase)
         {
             if (string.IsNullOrEmpty(phrase))
@@ -22,6 +35,16 @@ namespace CodeWars
                     stringBuilder.Append(" ");
             }
             return stringBuilder.ToString();
+        }
+
+        public static string ToJadenCase2(this string phrase)
+        {
+            return CultureInfo.CurrentCulture.TextInfo.ToTitleCase(phrase);
+        }
+
+        public static string ToJadenCase3(this string phrase)
+        {
+            return string.Join(" ", phrase.Split().Select(i => char.ToUpper(i[0]) + i.Substring(1)));
         }
     }
 }
