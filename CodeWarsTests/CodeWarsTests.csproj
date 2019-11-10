@@ -54,6 +54,7 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
+    <Compile Include="IpValidationTests.cs" />
     <Compile Include="JadenCaseTests.cs" />
     <Compile Include="KataTests.cs" />
     <Compile Include="ListFiltererTests.cs" />

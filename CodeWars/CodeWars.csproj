@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IpValidation.cs" />
     <Compile Include="JadenCase.cs" />
     <Compile Include="Kata.cs" />
     <Compile Include="ListFilterer.cs" />
