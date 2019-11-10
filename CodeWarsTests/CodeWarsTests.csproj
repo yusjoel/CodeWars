@@ -58,6 +58,7 @@
     <Compile Include="KataTests.cs" />
     <Compile Include="ListFiltererTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimpleEncryptionTests.cs" />
     <Compile Include="SumTests.cs" />
     <Compile Include="TriangleTests.cs" />
     <Compile Include="XbonacciTests.cs" />
