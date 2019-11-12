@@ -58,6 +58,8 @@
     <Compile Include="IpValidationTests.cs" />
     <Compile Include="JadenCaseTests.cs" />
     <Compile Include="KataTests.cs" />
+    <Compile Include="Kyu6\JomoPipiTests.cs" />
+    <Compile Include="Kyu6\Kata001Tests.cs" />
     <Compile Include="ListFiltererTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqInRectTests.cs" />
