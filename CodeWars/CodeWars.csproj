@@ -50,6 +50,7 @@
     <Compile Include="Kyu6\JomoPipi.cs" />
     <Compile Include="Kyu6\Kata001.cs" />
     <Compile Include="Kyu6\Kata002.cs" />
+    <Compile Include="Kyu6\Persist.cs" />
     <Compile Include="Kyu6\SumParts.cs" />
     <Compile Include="ListFilterer.cs" />
     <Compile Include="Program.cs" />
