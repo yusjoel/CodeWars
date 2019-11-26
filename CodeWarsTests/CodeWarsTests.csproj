@@ -60,6 +60,7 @@
     <Compile Include="KataTests.cs" />
     <Compile Include="Kyu4\IntervalsTests.cs" />
     <Compile Include="Kyu5\LoopDetectorTests.cs" />
+    <Compile Include="Kyu5\SumOfKTests.cs" />
     <Compile Include="Kyu6\JomoPipiTests.cs" />
     <Compile Include="Kyu6\Kata001Tests.cs" />
     <Compile Include="Kyu6\Kata002Tests.cs" />
