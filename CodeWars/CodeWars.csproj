@@ -48,6 +48,7 @@
     <Compile Include="JadenCase.cs" />
     <Compile Include="Kata.cs" />
     <Compile Include="Kyu4\Intervals.cs" />
+    <Compile Include="Kyu5\CaesarCipher.cs" />
     <Compile Include="Kyu5\LoopDetector.cs" />
     <Compile Include="Kyu5\SumOfK.cs" />
     <Compile Include="Kyu6\JomoPipi.cs" />
