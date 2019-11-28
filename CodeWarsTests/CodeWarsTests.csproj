@@ -62,6 +62,7 @@
     <Compile Include="Kyu4\IntervalsTests.cs" />
     <Compile Include="Kyu4\SnailSolutionTests.cs" />
     <Compile Include="Kyu5\CaesarCipherTests.cs" />
+    <Compile Include="Kyu5\JosephusSurvivorTests.cs" />
     <Compile Include="Kyu5\LoopDetectorTests.cs" />
     <Compile Include="Kyu5\SumOfKTests.cs" />
     <Compile Include="Kyu6\JomoPipiTests.cs" />

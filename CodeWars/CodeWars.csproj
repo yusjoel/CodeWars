@@ -51,6 +51,7 @@
     <Compile Include="Kyu4\Intervals.cs" />
     <Compile Include="Kyu4\SnailSolution.cs" />
     <Compile Include="Kyu5\CaesarCipher.cs" />
+    <Compile Include="Kyu5\JosephusSurvivor.cs" />
     <Compile Include="Kyu5\LoopDetector.cs" />
     <Compile Include="Kyu5\SumOfK.cs" />
     <Compile Include="Kyu6\JomoPipi.cs" />
