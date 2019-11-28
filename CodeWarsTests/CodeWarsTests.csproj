@@ -58,6 +58,7 @@
     <Compile Include="IpValidationTests.cs" />
     <Compile Include="JadenCaseTests.cs" />
     <Compile Include="KataTests.cs" />
+    <Compile Include="Kyu4\BinaryTreeTests.cs" />
     <Compile Include="Kyu4\IntervalsTests.cs" />
     <Compile Include="Kyu5\CaesarCipherTests.cs" />
     <Compile Include="Kyu5\LoopDetectorTests.cs" />
