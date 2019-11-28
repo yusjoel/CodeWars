@@ -60,6 +60,7 @@
     <Compile Include="KataTests.cs" />
     <Compile Include="Kyu4\BinaryTreeTests.cs" />
     <Compile Include="Kyu4\IntervalsTests.cs" />
+    <Compile Include="Kyu4\SnailSolutionTests.cs" />
     <Compile Include="Kyu5\CaesarCipherTests.cs" />
     <Compile Include="Kyu5\LoopDetectorTests.cs" />
     <Compile Include="Kyu5\SumOfKTests.cs" />
