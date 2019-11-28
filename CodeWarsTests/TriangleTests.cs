@@ -1,4 +1,4 @@
-﻿using CodeWars;
+﻿using CodeWars.Kyu7;
 using NUnit.Framework;
 
 namespace CodeWarsTests

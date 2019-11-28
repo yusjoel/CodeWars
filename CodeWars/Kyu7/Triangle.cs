@@ -1,4 +1,4 @@
-﻿namespace CodeWars
+﻿namespace CodeWars.Kyu7
 {
     /// <summary>
     ///     Is this a triangle?
