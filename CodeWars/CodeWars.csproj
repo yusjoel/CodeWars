@@ -49,6 +49,7 @@
     <Compile Include="Kata.cs" />
     <Compile Include="Kyu4\BinaryTree.cs" />
     <Compile Include="Kyu4\Intervals.cs" />
+    <Compile Include="Kyu4\PyramidSlideDown.cs" />
     <Compile Include="Kyu4\SnailSolution.cs" />
     <Compile Include="Kyu5\CaesarCipher.cs" />
     <Compile Include="Kyu5\JosephusSurvivor.cs" />
