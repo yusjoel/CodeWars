@@ -1,9 +1,9 @@
-﻿using CodeWars;
+﻿using CodeWars.Kyu7;
 using NUnit.Framework;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CodeWarsTests
+namespace CodeWarsTests.Kyu7
 {
     [TestFixture()]
     public class ListFiltererTests

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace CodeWars
+namespace CodeWars.Kyu7
 {
     /// <summary>
     ///     List Filtering

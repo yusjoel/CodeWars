@@ -68,12 +68,12 @@
     <Compile Include="Kyu6\Kata002Tests.cs" />
     <Compile Include="Kyu6\PersistTests.cs" />
     <Compile Include="Kyu6\SumPartsTests.cs" />
-    <Compile Include="ListFiltererTests.cs" />
+    <Compile Include="Kyu7\ListFiltererTests.cs" />
+    <Compile Include="Kyu7\TriangleTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqInRectTests.cs" />
     <Compile Include="SimpleEncryptionTests.cs" />
     <Compile Include="SumTests.cs" />
-    <Compile Include="TriangleTests.cs" />
     <Compile Include="XbonacciTests.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -85,6 +85,7 @@
       <Name>CodeWars</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
