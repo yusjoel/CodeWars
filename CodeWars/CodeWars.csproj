@@ -48,6 +48,7 @@
     <Compile Include="JadenCase.cs" />
     <Compile Include="Kata.cs" />
     <Compile Include="Kyu4\BinaryTree.cs" />
+    <Compile Include="Kyu4\BagelSolver.cs" />
     <Compile Include="Kyu4\Intervals.cs" />
     <Compile Include="Kyu4\PyramidSlideDown.cs" />
     <Compile Include="Kyu4\SnailSolution.cs" />
