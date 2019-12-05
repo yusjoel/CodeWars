@@ -47,6 +47,7 @@
     <Compile Include="IpValidation.cs" />
     <Compile Include="JadenCase.cs" />
     <Compile Include="Kata.cs" />
+    <Compile Include="Kyu4\Balanced.cs" />
     <Compile Include="Kyu4\BinaryTree.cs" />
     <Compile Include="Kyu4\BagelSolver.cs" />
     <Compile Include="Kyu4\Intervals.cs" />
