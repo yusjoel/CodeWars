@@ -52,6 +52,7 @@
     <Compile Include="Kyu4\BagelSolver.cs" />
     <Compile Include="Kyu4\FactorialTail.cs" />
     <Compile Include="Kyu4\Intervals.cs" />
+    <Compile Include="Kyu4\MorseCodeDecoder.cs" />
     <Compile Include="Kyu4\PyramidSlideDown.cs" />
     <Compile Include="Kyu4\SnailSolution.cs" />
     <Compile Include="Kyu5\CaesarCipher.cs" />
@@ -61,6 +62,7 @@
     <Compile Include="Kyu6\JomoPipi.cs" />
     <Compile Include="Kyu6\Kata001.cs" />
     <Compile Include="Kyu6\Kata002.cs" />
+    <Compile Include="Kyu6\MorseCode.cs" />
     <Compile Include="Kyu6\MorseCodeDecoder.cs" />
     <Compile Include="Kyu6\Persist.cs" />
     <Compile Include="Kyu6\SumParts.cs" />
