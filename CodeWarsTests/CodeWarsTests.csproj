@@ -72,6 +72,7 @@
     <Compile Include="Kyu6\JomoPipiTests.cs" />
     <Compile Include="Kyu6\Kata001Tests.cs" />
     <Compile Include="Kyu6\Kata002Tests.cs" />
+    <Compile Include="Kyu6\MorseCodeDecoderTests.cs" />
     <Compile Include="Kyu6\PersistTests.cs" />
     <Compile Include="Kyu6\SumPartsTests.cs" />
     <Compile Include="Kyu7\ListFiltererTests.cs" />

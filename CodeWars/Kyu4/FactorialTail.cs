@@ -11,6 +11,7 @@ namespace CodeWars.Kyu4
     /// </remarks>
     public class FactorialTail
     {
+        // ReSharper disable once InconsistentNaming
         public static int zeroes(int baseNumber, int number)
         {
             // 对于base, 先做因式分解, 如10 = 2x5, 16 = 2^4, 13 = 13
