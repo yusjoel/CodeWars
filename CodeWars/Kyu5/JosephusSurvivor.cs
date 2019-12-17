@@ -8,7 +8,7 @@ namespace CodeWars.Kyu5
     ///     Josephus Survivor
     /// </summary>
     /// <remarks>
-    ///     https://www.codewars.com/kata/555624b601231dc7a400017a/train/csharp
+    ///     https://www.codewars.com/kata/josephus-survivor/train/csharp
     /// </remarks>
     public class JosephusSurvivor
     {

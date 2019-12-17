@@ -7,7 +7,7 @@ namespace CodeWars.Kyu4
     ///     Sum of Intervals
     /// </summary>
     /// <remarks>
-    ///     https://www.codewars.com/kata/52b7ed099cdc285c300001cd/solutions/csharp
+    ///     https://www.codewars.com/kata/sum-of-intervals/train/csharp
     /// </remarks>
     public class Intervals
     {

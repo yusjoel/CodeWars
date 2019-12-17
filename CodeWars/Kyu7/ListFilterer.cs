@@ -7,7 +7,7 @@ namespace CodeWars.Kyu7
     ///     List Filtering
     /// </summary>
     /// <remarks>
-    ///     https://www.codewars.com/kata/53dbd5315a3c69eed20002dd
+    ///     https://www.codewars.com/kata/list-filtering/train/csharp
     /// </remarks>
     public class ListFilterer
     {

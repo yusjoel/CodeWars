@@ -54,10 +54,9 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
-    <Compile Include="DubstepTests.cs" />
-    <Compile Include="IpValidationTests.cs" />
     <Compile Include="JadenCaseTests.cs" />
     <Compile Include="KataTests.cs" />
+    <Compile Include="Kyu3\BattleshipFieldTests.cs" />
     <Compile Include="Kyu4\BagelSolverTests.cs" />
     <Compile Include="Kyu4\BalancedTests.cs" />
     <Compile Include="Kyu4\BinaryTreeTests.cs" />
@@ -70,6 +69,8 @@
     <Compile Include="Kyu5\JosephusSurvivorTests.cs" />
     <Compile Include="Kyu5\LoopDetectorTests.cs" />
     <Compile Include="Kyu5\SumOfKTests.cs" />
+    <Compile Include="Kyu6\DubstepTests.cs" />
+    <Compile Include="Kyu6\IpValidationTests.cs" />
     <Compile Include="Kyu6\JomoPipiTests.cs" />
     <Compile Include="Kyu6\Kata001Tests.cs" />
     <Compile Include="Kyu6\Kata002Tests.cs" />

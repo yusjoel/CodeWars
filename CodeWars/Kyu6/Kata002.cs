@@ -3,6 +3,10 @@ using System.Collections.Generic;
 
 namespace CodeWars.Kyu6
 {
+    /// <summary>
+    ///     Find the odd int
+    /// </summary>
+    /// <remarks>https://www.codewars.com/kata/find-the-odd-int/train/csharp</remarks>
     public class Kata002
     {
         /// <summary>

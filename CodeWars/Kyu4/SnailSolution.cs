@@ -6,7 +6,7 @@ namespace CodeWars.Kyu4
     ///     Snail
     /// </summary>
     /// <remarks>
-    ///     https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/csharp
+    ///     https://www.codewars.com/kata/snail/train/csharp
     /// </remarks>
     public class SnailSolution
     {

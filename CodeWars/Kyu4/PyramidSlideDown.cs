@@ -6,7 +6,7 @@ namespace CodeWars.Kyu4
     ///     Pyramid Slide Down
     /// </summary>
     /// <remarks>
-    ///     https://www.codewars.com/kata/551f23362ff852e2ab000037/train/csharp
+    ///     https://www.codewars.com/kata/pyramid-slide-down/train/csharp
     /// </remarks>
     public class PyramidSlideDown
     {

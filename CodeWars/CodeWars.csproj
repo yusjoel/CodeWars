@@ -43,10 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dubstep.cs" />
-    <Compile Include="IpValidation.cs" />
     <Compile Include="JadenCase.cs" />
     <Compile Include="Kata.cs" />
+    <Compile Include="Kyu3\BattleshipField.cs" />
     <Compile Include="Kyu4\Balanced.cs" />
     <Compile Include="Kyu4\BinaryTree.cs" />
     <Compile Include="Kyu4\BagelSolver.cs" />
@@ -59,6 +58,8 @@
     <Compile Include="Kyu5\JosephusSurvivor.cs" />
     <Compile Include="Kyu5\LoopDetector.cs" />
     <Compile Include="Kyu5\SumOfK.cs" />
+    <Compile Include="Kyu6\Dubstep.cs" />
+    <Compile Include="Kyu6\IpValidation.cs" />
     <Compile Include="Kyu6\JomoPipi.cs" />
     <Compile Include="Kyu6\Kata001.cs" />
     <Compile Include="Kyu6\Kata002.cs" />

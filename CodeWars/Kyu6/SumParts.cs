@@ -6,7 +6,7 @@ namespace CodeWars.Kyu6
     ///     Sums of Parts
     /// </summary>
     /// <remarks>
-    ///     https://www.codewars.com/kata/5ce399e0047a45001c853c2b
+    ///     https://www.codewars.com/kata/sums-of-parts/train/csharp
     /// </remarks>
     public class SumParts
     {

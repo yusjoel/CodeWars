@@ -3,10 +3,14 @@ using System.Text.RegularExpressions;
 
 namespace CodeWars
 {
+    /// <summary>
+    ///     IP Validation
+    /// </summary>
+    /// <remarks>https://www.codewars.com/kata/ip-validation/train/csharp</remarks>
     public class IpValidation
     {
         /// <summary>
-        /// My Solution
+        ///     My Solution
         /// </summary>
         /// <param name="ipAddress"></param>
         /// <returns></returns>
@@ -34,11 +38,12 @@ namespace CodeWars
 
             return true;
         }
-        
+
         public static bool is_valid_IP2(string ipAddress)
         {
             // 这个解可能最符合题意
-            string regexPattern = "^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])$";
+            string regexPattern =
+                "^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])$";
             return Regex.IsMatch(ipAddress, regexPattern);
         }
 
