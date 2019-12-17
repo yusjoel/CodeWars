@@ -2,7 +2,7 @@
 {
     public sealed class Bagel
     {
-        public int Value { get; } = 3;
+        public int Value { get; private set; } = 3;
     }
 
     /// <summary>
