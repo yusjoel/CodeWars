@@ -57,6 +57,7 @@
     <Compile Include="JadenCaseTests.cs" />
     <Compile Include="KataTests.cs" />
     <Compile Include="Kyu3\BattleshipFieldTests.cs" />
+    <Compile Include="Kyu3\BinomialExpansionTests.cs" />
     <Compile Include="Kyu4\BagelSolverTests.cs" />
     <Compile Include="Kyu4\BalancedTests.cs" />
     <Compile Include="Kyu4\BinaryTreeTests.cs" />

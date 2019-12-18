@@ -46,6 +46,7 @@
     <Compile Include="JadenCase.cs" />
     <Compile Include="Kata.cs" />
     <Compile Include="Kyu3\BattleshipField.cs" />
+    <Compile Include="Kyu3\BinomialExpansion.cs" />
     <Compile Include="Kyu4\Balanced.cs" />
     <Compile Include="Kyu4\BinaryTree.cs" />
     <Compile Include="Kyu4\BagelSolver.cs" />
